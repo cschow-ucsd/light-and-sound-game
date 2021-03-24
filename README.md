@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![U4sxPx8Yqm](https://user-images.githubusercontent.com/54487137/112241090-d2d81100-8c06-11eb-8810-7668b1d40baa.gif)
+![light-sound-game](https://user-images.githubusercontent.com/54487137/112388554-8d701e00-8cb0-11eb-9603-1479a23dbbe5.gif)
 
 ## Reflection Questions
 
