@@ -2,11 +2,11 @@
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program.
 
-Submitted by: **NAME**
+Submitted by: **Chi Chow**
 
-Time spent: **#** hours spent in total
+Time spent: **2** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (https://glitch.com/edit/#!/versed-catkin-school)
 
 ## Required Functionality
 
@@ -39,25 +39,26 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](your-link-here)
+![U4sxPx8Yqm](https://user-images.githubusercontent.com/54487137/112241090-d2d81100-8c06-11eb-8810-7668b1d40baa.gif)
 
 ## Reflection Questions
 
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
-   [YOUR ANSWER HERE]
+   N/A
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
-   [YOUR ANSWER HERE]
+   I did not encounter any challenges completing the required functionality.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words)
-   [YOUR ANSWER HERE]
+   In a web development project with multiple collaborators, how is the work organized? Will different members have different roles to implement a selected type of files? E.g. one person is responsible for the CSS, another person is responsible for the JavaScript.
+   What is a good organization of a website with multiple pages?
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)
-   [YOUR ANSWER HERE]
+   I would definitely add some additional features if I had more time to work on this project. Refining the fonts and locations of different elements, adding more squares and tunes, simple animations to indicate losing/wining the game, are some features I can possibly implement if I had a few more hours.
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [Chi Chow]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
