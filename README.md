@@ -22,12 +22,12 @@ The following **required** functionality is complete:
 
 The following **optional** features are implemented:
 
-- [ ] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
-- [ ] Buttons use a pitch (frequency) other than the ones in the tutorial
-- [ ] More than 4 functional game buttons
-- [ ] Playback speeds up on each turn
-- [ ] Computer picks a different pattern each time the game is played
-- [ ] Player only loses after 3 mistakes (instead of on the first mistake)
+- [x] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
+- [x] Buttons use a pitch (frequency) other than the ones in the tutorial
+- [x] More than 4 functional game buttons
+- [x] Playback speeds up on each turn
+- [x] Computer picks a different pattern each time the game is played
+- [x] Player only loses after 3 mistakes (instead of on the first mistake)
 - [ ] Game button appearance change goes beyond color (e.g. add an image)
 - [ ] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
 - [ ] User has a limited amount of time to enter their guess on each turn
@@ -39,21 +39,25 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![U4sxPx8Yqm](https://user-images.githubusercontent.com/54487137/112241090-d2d81100-8c06-11eb-8810-7668b1d40baa.gif)
+![light-sound-game](https://user-images.githubusercontent.com/54487137/112388554-8d701e00-8cb0-11eb-9603-1479a23dbbe5.gif)
 
 ## Reflection Questions
 
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
+   
    N/A
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
-   I did not encounter any challenges completing the required functionality.
+   
+   I did not encounter any challenges completing the required functionality or some of the optional features. If I had more time, I would be able to finish more optional features relatively easily.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words)
+   
    In a web development project with multiple collaborators, how is the work organized? Will different members have different roles to implement a selected type of files? E.g. one person is responsible for the CSS, another person is responsible for the JavaScript.
-   What is a good organization of a website with multiple pages?
+   Also, what is a good organization of a website with multiple pages?
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)
+   
    I would definitely add some additional features if I had more time to work on this project. Refining the fonts and locations of different elements, adding more squares and tunes, simple animations to indicate losing/wining the game, are some features I can possibly implement if I had a few more hours.
 
 ## License

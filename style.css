@@ -3,7 +3,7 @@
 body {
   font-family: helvetica, arial, sans-serif;
   margin: 2em;
-  background-color: slategrey;
+  background-color: black;
   color: white;
 }
 
@@ -20,6 +20,7 @@ button {
   width: 200px;
   height: 200px;
   margin: 2px;
+  border-radius: 50%;
 }
 
 .hidden {
@@ -42,6 +43,22 @@ button {
   background: lightyellow;
 }
 
+#button5 {
+  background: lightcyan;
+}
+
+#button6 {
+  background: lightgray;
+}
+
+#button7 {
+  background: lightcoral;
+}
+
+#button8 {
+  background: lightseagreen;
+}
+
 #button1:active,
 #button1.lit {
   background: green;
@@ -60,4 +77,24 @@ button {
 #button4:active,
 #button4.lit {
   background: yellow;
+}
+
+#button5:active,
+#button5.lit {
+  background: cyan;
+}
+
+#button6:active,
+#button6.lit {
+  background: gray;
+}
+
+#button7:active,
+#button7.lit {
+  background: coral;
+}
+
+#button8:active,
+#button8.lit {
+  background: seagreen;
 }
