@@ -19,8 +19,12 @@
     <p>
       Welcome to the sound Light and Sound Memory Game!
     </p>
+    
     <button id="startBtn" onclick="startGame()">Start</button>
     <button id="stopBtn" class="hidden" onclick="stopGame()">End</button>
+    <p id="mistakesText" class="hidden">
+      Mistakes: 0
+    </p>
 
     <div id="gameButtonArea">
       <button
@@ -45,6 +49,30 @@
         id="button4"
         onclick="guess(4)"
         onmousedown="startTone(4)"
+        onmouseup="stopTone()"
+      ></button>
+      <button
+        id="button5"
+        onclick="guess(5)"
+        onmousedown="startTone(5)"
+        onmouseup="stopTone()"
+      ></button>
+      <button
+        id="button6"
+        onclick="guess(6)"
+        onmousedown="startTone(6)"
+        onmouseup="stopTone()"
+      ></button>
+      <button
+        id="button7"
+        onclick="guess(7)"
+        onmousedown="startTone(7)"
+        onmouseup="stopTone()"
+      ></button>
+      <button
+        id="button8"
+        onclick="guess(8)"
+        onmousedown="startTone(8)"
         onmouseup="stopTone()"
       ></button>
     </div>
